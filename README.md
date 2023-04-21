@@ -11,7 +11,7 @@
 * Кликни [сюда](https://github.com/khav-i/sf_data_science) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: SQL, Python
+- Инструменты: Jupyter Notebook, SQL, Python
 - Skills: 
     * Mathematical statistics;
     * Data Preprocessing;

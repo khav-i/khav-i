@@ -32,3 +32,4 @@
 ### 🙌🏻 Свяжись со мной
 - [Telegram](http://t.me/khav_i)
 - Mail: khav_i@mail.ru
+- [Kaggle](https://www.kaggle.com/tobiweiss/code)

@@ -23,3 +23,4 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](http://t.me/khav_i)
+- [mail].(khav_i@mail.ru)

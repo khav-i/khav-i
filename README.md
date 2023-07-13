@@ -8,7 +8,11 @@
 
 ### 📚 Проекты 📚
 
-* [Жмякнуть](https://github.com/khav-i/sf_data_science) чтобы посмотреть мои проекты
+* [Угадай число!](https://github.com/khav-i/sf_data_science/blob/main/project_0/README.md)
+* [Анализ резюме из HeadHunter](https://github.com/khav-i/sf_data_science/blob/main/project_1/README.md)
+* [Анализ вакансий из HeadHunter](https://github.com/khav-i/sf_data_science/blob/main/project_2/README.md)
+* [Проект по очистке данных](https://github.com/khav-i/DataCleaningProject/blob/master/README.md)
+* [Статистические методы поиска выбросов](https://github.com/khav-i/DataCleaningProject/blob/master/outliers_lib/README.md)
 
 ### 💡 Основные компетенции 💡
 - Инструменты:

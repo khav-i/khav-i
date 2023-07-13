@@ -13,6 +13,7 @@
 * [Анализ вакансий из HeadHunter](https://github.com/khav-i/sf_data_science/blob/main/project_2/README.md)
 * [Проект по очистке данных](https://github.com/khav-i/DataCleaningProject/blob/master/README.md)
 * [Статистические методы поиска выбросов](https://github.com/khav-i/DataCleaningProject/blob/master/outliers_lib/README.md)
+* [Исследование данных о зарплатах ITшнегов :)](https://github.com/khav-i/sf_data_science/blob/main/stat_tests/README.md)
 
 ### 💡 Основные компетенции 💡
 - Инструменты:

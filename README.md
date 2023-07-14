@@ -26,6 +26,7 @@
     * Data Preprocessing;
     * Data Analysis;
     * Soft skills.
+- [Stepik](https://stepik.org/users/597504416/profile): Мои достижения на stepik-курсах: зпнимаюсь каждый день!
 
 ### ⚡️ В настоящее время ⚡️
 - 📚 Учусь и работаю 💪
@@ -33,4 +34,3 @@
 ### 🙌🏻 Свяжись со мной
 - [Telegram](http://t.me/khav_i)
 - [Kaggle](https://www.kaggle.com/tobiweiss/code)
-- [stepik](https://stepik.org/users/597504416/profile): practice every day!

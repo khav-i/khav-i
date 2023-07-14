@@ -32,5 +32,5 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](http://t.me/khav_i)
-- Mail: khav_i@mail.ru
 - [Kaggle](https://www.kaggle.com/tobiweiss/code)
+- [stepik](https://stepik.org/users/597504416/profile): practice every day!

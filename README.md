@@ -17,8 +17,8 @@
 
 ### 💡 Основные компетенции 💡
 - Инструменты:
-    * Python: Numpy, Pandas, Plotly, Scipy
-    * Jupyter Notebook
+    * Python: Numpy, Pandas, Plotly, Scipy and etc.
+    * Jupyter Notebook (HTML/CSS)
     * SQL
     * R
 - Skills:

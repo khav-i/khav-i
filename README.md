@@ -16,7 +16,7 @@
 * [Статистические методы поиска выбросов](https://github.com/khav-i/DataCleaningProject/blob/master/outliers_lib/README.md)
 * [Исследование данных о зарплатах ITшнегов :)](https://github.com/khav-i/sf_data_science/blob/main/stat_tests/README.md)
 * [Исследование отзывов на отели Booking.com. Работа с ML](https://github.com/khav-i/sf_data_science/blob/main/project_3/README.md)
-* [Страховой прогноз с использованием линейной регрессии](https://github.com/khav-i/ml_works/blob/master/Insurance%20Forecast%20by%20using%20Linear%20Regression/README.md)
+* [Страховой прогноз с использованием линейной и полиномиальной регрессий](https://github.com/khav-i/ml_works/blob/master/Insurance%20Forecast%20by%20using%20Linear%20Regression/README.md)
 
 ### 💡 Основные компетенции 💡
 - Инструменты:

@@ -19,6 +19,7 @@
 * [Страховой прогноз с использованием линейной и полиномиальной регрессий](https://github.com/khav-i/ml_works/blob/master/Insurance%20Forecast%20by%20using%20Linear%20Regression/README.md)
 * [Прогнозирование оттока клиентов банка. Задача на классификацию](https://github.com/khav-i/ml_works/blob/master/Churn%20for%20Bank%20Customers/README.md)
 * [Кластеризация покупателей](https://github.com/khav-i/ml_works/blob/master/Customer%20clustering/README.md)
+* [Понижение размерности данных, основанных на рукописном начертании цифр](https://github.com/khav-i/ml_works/blob/master/Downsizing/README.md)
 
 ### 💡 Основные компетенции 💡
 - Инструменты:

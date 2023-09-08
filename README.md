@@ -33,6 +33,7 @@
     * SQL
     * R
 - Skills:
+    * Machine learning (sklearn);
     * Mathematical statistics;
     * Data Preprocessing;
     * Data Analysis;

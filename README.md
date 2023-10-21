@@ -9,6 +9,10 @@
 
 ### 📚 Проекты 📚
 
+|№|Название (ссылка)|Описание|Комментарий|
+|-|-|-|-|
+|1|[Угадай число!](https://github.com/khav-i/sf_data_science/blob/main/project_0/README.md)|Простой алгоритм поиска с обратной связью.|Минипроект-упражнение по работе с функциями и библиотекой numpy.|
+
 * [Угадай число!](https://github.com/khav-i/sf_data_science/blob/main/project_0/README.md)
 * [Анализ резюме из HeadHunter](https://github.com/khav-i/sf_data_science/blob/main/project_1/README.md)
 * [Анализ вакансий из HeadHunter](https://github.com/khav-i/sf_data_science/blob/main/project_2/README.md)

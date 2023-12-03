@@ -32,6 +32,11 @@
 |2|[ml_works](https://github.com/khav-i/ml_works/blob/master/README.md)|Хранилище историй версий прочих ML-проектов.|12|
 |3|[DataCleaningProject](https://github.com/khav-i/DataCleaningProject/blob/master/README.md)|Хранилище версий отдельного проекта по очистке данных о квартирах в Москве и Московской области на основе данных из соревнования на Kaggle.|2|
 
+### Мои резюме
+- [HeadHunter](https://nizhnekamsk.hh.ru/resume/9804c0ddff0c7653220039ed1f694759464f48)
+- [Geekjob](https://geekjob.ru/geek/6559e03eba318e00215fb953)
+
 ### 🙌🏻 Свяжитесь со мной
 - [Telegram](http://t.me/khav_i)
 - [Kaggle](https://www.kaggle.com/tobiweiss/code)
+

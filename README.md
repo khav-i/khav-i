@@ -16,6 +16,7 @@
     * R
 - Skills:
     * Machine learning (sklearn);
+    * Deep learning (tensorflow, keras)... little bit
     * Mathematical statistics;
     * Data Preprocessing;
     * Data Analysis;

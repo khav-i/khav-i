@@ -29,7 +29,7 @@
 
 |№|Название (ссылка)|Описание|Число работ|
 |-|-|-|-|
-|1|[sf_data_science](https://github.com/khav-i/sf_data_science/blob/main/README.md)|Хранилище историй версий учебных проектов.|7|
+|1|[sf_data_science](https://github.com/khav-i/sf_data_science/blob/main/README.md)|Хранилище историй версий учебных проектов.|8|
 |2|[ml_works](https://github.com/khav-i/ml_works/blob/master/README.md)|Хранилище историй версий прочих ML-проектов.|20|
 |3|[DataCleaningProject](https://github.com/khav-i/DataCleaningProject/blob/master/README.md)|Хранилище версий отдельного проекта по очистке данных о квартирах в Москве и Московской области на основе данных из соревнования на Kaggle.|2|
 |4|[nn_works](https://github.com/khav-i/nn_works/blob/master/README.md)|Хранилище историй версий DL-проектов.|1|

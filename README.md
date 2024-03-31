@@ -10,17 +10,17 @@
 ### 💡 Основные компетенции 💡
 - Инструменты:
     * Python: numpy, pandas, plotly, scipy, sklearn, statsmodels and etc.
-    * Jupyter Notebook (HTML)
-    * git
-    * SQL
-    * R
+    * Jupyter Notebook (HTML);
+    * SQL, R, C++;
+    * Docker.
 - Skills:
-    * Machine learning (sklearn);
-    * Deep learning (tensorflow, keras)... little bit
-    * Mathematical statistics;
-    * Data Preprocessing;
     * Data Analysis;
-    * Soft skills.
+    * Data Preprocessing;
+    * Mathematical statistics;
+    * Machine learning;
+    * Deep learning (tensorflow, keras, torch);
+    * A/B testing;
+    * Deploy.
 
 ### ⚡️ В настоящее время ⚡️
 - 📚 Учусь и ищу работу 👀

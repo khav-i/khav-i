@@ -10,6 +10,7 @@
 ### 💡 Основные компетенции 💡
 - Инструменты:
     * Python: numpy, pandas, plotly, scipy, sklearn, statsmodels and etc.
+    * Scikit-image, OpenCV;
     * Tensorflow, Keras, PyTorch;
     * Jupyter Notebook (HTML);
     * SQL, R, C++;
@@ -37,6 +38,7 @@
 |4|[nn_works](https://github.com/khav-i/nn_works/blob/master/README.md)|Хранилище историй версий DL-проектов (большей частью по CV).|16|
 |5|[ml_works_tau](https://github.com/khav-i/ml_works_tau)|Хранилище версий проектов, основанных на работе с временными рядами.|2|
 |6|[Work with OMG-sensors data](https://github.com/khav-i/Work-with-OMG-sensors-data)|Репозиторий с проектом по классификации временных рядов. Работа с данными, предоставленными компанией Моторика (Сколково).|4|
+|7|[nlp_works](https://github.com/khav-i/nlp_works)|Репа с NLP-проектами|1|
 
 ### 🙌🏻 Свяжитесь со мной 🙌🏻
 - [Telegram](http://t.me/khav_i)

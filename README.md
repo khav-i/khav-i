@@ -38,6 +38,6 @@
 |6|[Work with OMG-sensors data](https://github.com/khav-i/Work-with-OMG-sensors-data)|Репозиторий с проектом по классификации временных рядов. Работа с данными, предоставленными компанией Моторика (Сколково).|1|
 |7|[nlp_works](https://github.com/khav-i/nlp_works)|Репа с NLP-проектами|3|
 
-### 🙌🏻 Свяжитесь со мной 🙌🏻
+### 👋 Как со мной связаться 📲
 - [Telegram](http://t.me/khav_i)
 

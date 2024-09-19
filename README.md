@@ -37,7 +37,7 @@
 |4|[nn_works](https://github.com/khav-i/nn_works/blob/master/README.md)|Хранилище историй версий DL-проектов (большей частью по CV).|34|
 |5|[ml_works_tau](https://github.com/khav-i/ml_works_tau)|Хранилище версий проектов, основанных на работе с временными рядами.|2|
 |6|[Work with OMG-sensors data](https://github.com/khav-i/Work-with-OMG-sensors-data)|Репозиторий с проектом по классификации временных рядов. Работа с данными, предоставленными компанией Моторика (Сколково).|1|
-|7|[nlp_works](https://github.com/khav-i/nlp_works)|Репа с NLP-проектами.|5|
+|7|[nlp_works](https://github.com/khav-i/nlp_works/blob/master/README.md)|Репа с NLP-проектами.|5|
 |8|[style-transfer-web-app](https://github.com/khav-i/style-transfer-web-app/blob/master/README.md)|Репа с прототипом веб-приложения переноса стилей.|1|
 |9|[nn_mixeds](https://github.com/khav-i/nn_mixeds/blob/master/README.md)|Репозиторий смешанных решений не всегда смешанных задач.|2|
 

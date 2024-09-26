@@ -34,7 +34,7 @@
 |1|[sf_data_science](https://github.com/khav-i/sf_data_science/blob/main/README.md)|Хранилище историй версий учебных проектов.|8|
 |2|[ml_works](https://github.com/khav-i/ml_works/blob/master/README.md)|Хранилище историй версий прочих ML-проектов.|22|
 |3|[DataCleaningProject](https://github.com/khav-i/DataCleaningProject/blob/master/README.md)|Хранилище версий отдельного проекта по очистке данных о квартирах в Москве и Московской области на основе данных из соревнования на Kaggle.|1|
-|4|[nn_works](https://github.com/khav-i/nn_works/blob/master/README.md)|Хранилище историй версий DL-проектов (большей частью по CV).|35|
+|4|[nn_works](https://github.com/khav-i/nn_works/blob/master/README.md)|Хранилище историй версий DL-проектов (большей частью по CV).|36|
 |5|[ml_works_tau](https://github.com/khav-i/ml_works_tau)|Хранилище версий проектов, основанных на работе с временными рядами.|2|
 |6|[Work with OMG-sensors data](https://github.com/khav-i/Work-with-OMG-sensors-data)|Репозиторий с проектом по классификации временных рядов. Работа с данными, предоставленными компанией Моторика (Сколково).|1|
 |7|[nlp_works](https://github.com/khav-i/nlp_works/blob/master/README.md)|Репа с NLP-проектами.|5|

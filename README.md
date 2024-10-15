@@ -17,15 +17,7 @@
     * Jupyter Notebook (HTML);
     * SQL, R, C++, Kotlin;
     * Docker.
-- Skills:
-    * Data Analysis;
-    * Data Preprocessing;
-    * Mathematical statistics;
-    * Machine learning;
-    * Deep learning;
-    * Computer vision;
-    * A/B testing;
-    * Deploy.
+- Skills: EDA, Mathstats, ML, DL, CV, NLP, Deploy, A/B testing.
 
 ### 💾 Мои репозитории 💾
 

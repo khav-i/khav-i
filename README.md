@@ -37,3 +37,5 @@
 ### 👋 Как со мной связаться 📲
 - [Telegram](http://t.me/khav_i)
 
+### ❔ Что ещё ❔
+[Бывает, просто читаю](https://github.com/khav-i/khav-i/blob/master/book_trail.ipynb) 📚

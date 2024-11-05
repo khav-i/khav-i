@@ -29,9 +29,8 @@
 |3|[nn_works](https://github.com/khav-i/nn_works/blob/master/README.md)|Хранилище историй версий DL-проектов (большей частью по CV).|36|
 |4|[ml_works_tau](https://github.com/khav-i/ml_works_tau)|Хранилище версий проектов, основанных на работе с временными рядами.|2|
 |5|[nlp_works](https://github.com/khav-i/nlp_works/blob/master/README.md)|Репа с NLP-проектами.|6|
-|6|[style-transfer-web-app](https://github.com/khav-i/style-transfer-web-app/blob/master/README.md)|Репа с прототипом веб-приложения переноса стилей.|1|
-|7|[nn_mixeds](https://github.com/khav-i/nn_mixeds/blob/master/README.md)|Репозиторий смешанных решений не всегда смешанных задач.|2|
-|8|[rs_models](https://github.com/khav-i/rs_models/blob/master/README.md)|Здесь лежат проекты по рекомендательным системам|6|
+|6|[nn_mixeds](https://github.com/khav-i/nn_mixeds/blob/master/README.md)|Репозиторий смешанных решений не всегда смешанных задач.|2|
+|7|[rs_models](https://github.com/khav-i/rs_models/blob/master/README.md)|Здесь лежат проекты по рекомендательным системам|6|
 
 ### 👋 Как со мной связаться 📲
 - [Telegram](http://t.me/khav_i)

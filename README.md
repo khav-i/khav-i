@@ -4,7 +4,7 @@
 
 * 🎓 Образование:
   - Skillfactory: курс "Трек CV-инженер" ([сертификат](https://cloud.mail.ru/public/jqLw/gHF4RmKoW));
-  - Skillfactory: курс "Профессия Data Scientist" ([сертификат](https://cloud.mail.ru/public/3Wgv/aB8RMLEpw));
+  - Skillfactory: курс "Профессия Data Scientist" ([сертификат](https://cloud.mail.ru/public/2t1Q/SSXjmZxN7));
   - [Leetcode](https://leetcode.com/u/khav-i/);
   - [Stepik](https://stepik.org/users/597504416/profile);
   - НЧИ КФУ (магистратура): 13.04.01 - Теплоэнергетика и теплотехника;

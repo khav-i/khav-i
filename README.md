@@ -25,7 +25,7 @@
 |№|Название (ссылка)|Описание|Число проектов|
 |-|-|-|-|
 |1|[sf_data_science](https://github.com/khav-i/sf_data_science/blob/main/README.md)|Основные учебные проекты с моделями классического ML.|10|
-|2|[ml_works](https://github.com/khav-i/ml_works/blob/master/README.md)|Классические ML-модели.|24|
+|2|[ml_works](https://github.com/khav-i/ml_works/blob/master/README.md)|Классические ML-модели.|25|
 |3|[nn_works](https://github.com/khav-i/nn_works/blob/master/README.md)|Репозиторий с CV-моделями.|38|
 |4|[nlp_works](https://github.com/khav-i/nlp_works/blob/master/README.md)|Репа с NLP-проектами.|7|
 |5|[nn_mixeds](https://github.com/khav-i/nn_mixeds/blob/master/README.md)|Репозиторий смешанных решений не всегда смешанных задач.|2|
